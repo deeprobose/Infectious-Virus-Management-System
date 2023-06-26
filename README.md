@@ -1,5 +1,3 @@
-Database Project Name: **Infectious Viruses Management System **
-
 1. What information does this database hold?
 
 The database holds authentic information regarding certain infectious viruses, including their characteristics, associated countries, reported cases, available vaccines, research studies and many more. Its aim is to centralize and manage data for better understanding, analysis, and response to viral outbreaks. 
